@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hello, World!</h1>
+
+<h2 align="center">My name is Dennis Krutkin</h2>
 
 <!--
 **ddkrutkin/ddkrutkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

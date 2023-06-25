@@ -31,9 +31,15 @@
 
 ### <ins>Coding Tools:</ins>
 [![VSCode](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/ddkrutkin)
+[![Anaconda](https://img.shields.io/badge/Anaconda-black?style=for-the-badge&logo=anaconda)](https://github.com/ddkrutkin)
+[![Jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter)](https://github.com/ddkrutkin)
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://github.com/ddkrutkin)
 [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)](https://github.com/ddkrutkin)
 [![RStudio](https://img.shields.io/badge/R_Studio-black?style=for-the-badge&logo=rstudio)](https://github.com/ddkrutkin)
+
+### <ins>Cloud Platforms:</ins>
+[![AWS](https://img.shields.io/badge/Amazon_Web_Services-black?style=for-the-badge&logo=amazonaws)](https://github.com/ddkrutkin)
+[![Google Cloud](https://img.shields.io/badge/Google_cloud-black?style=for-the-badge&logo=googlecloud)](https://github.com/ddkrutkin)
 
 ### <ins>Operating Systems:</ins>
 [![MAC OS](https://img.shields.io/badge/mac_os-black?style=for-the-badge&logo=macos)](https://github.com/ddkrutkin)
